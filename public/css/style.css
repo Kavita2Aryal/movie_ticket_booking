@@ -1,0 +1,30 @@
+.heading-style{
+    text-align: center;
+    margin: 20px;
+   font-weight: bold;
+
+}
+
+
+.button-style{
+
+   margin:20px;
+    height: auto;
+    padding:10px 20px;
+}
+
+.message-style{
+   margin: 10px;
+}
+
+.h3-style{
+  color: #000;
+    padding-left: 2%;
+    margin-left: 75%;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #1e90ff;
+
+
+
+}
